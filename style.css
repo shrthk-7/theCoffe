@@ -25,17 +25,12 @@ p   {
     font-family: 'Kaushan Script', cursive;
     font-size: 1.5rem;
     
-    /* background: #7f5539; */
     text-decoration: none;
     color: white;
     
     padding: 0.5rem;
     border: 2px solid white;
     border-radius: 2rem;
-}
-
-button  {
-    background: #7f5539;
 }
 
 a   {
@@ -86,18 +81,4 @@ a   {
     height: 30vw;
     padding: 5vh 5vh 5vh 5vh;
     max-height: 400px;
-}
-
-table   {
-    padding: .1rem;
-    border: 2px solid black;
-    border-radius: 1rem;
-}
-td  {
-    border: 2px solid black;
-    padding: 1rem;
-    border-radius: 1rem;
-    font-size: 2rem;
-    font-family: Arial, Helvetica, sans-serif;
-    color: #501f1f;
 }
